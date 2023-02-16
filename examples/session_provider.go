@@ -4,7 +4,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/credentials"
 	"github.com/aws/aws-sdk-go/aws/session"
-	"github.com/qhenkart/gosqs"
+	"github.com/joshcass/gosqs"
 )
 
 func main_with_session_provider() {

@@ -1,5 +1,5 @@
 # gosqs
-![Circleci](https://circleci.com/gh/qhenkart/gosqs.svg?style=svg&circle-token=c1a91e2472b2e5a2eb6957c8b2ad0f321513a24a) [![Go Reference](https://pkg.go.dev/badge/github.com/qhenkart/gosqs/.svg)](https://pkg.go.dev/github.com/qhenkart/gosqs/)
+![Circleci](https://circleci.com/gh/joshcass/gosqs.svg?style=svg&circle-token=c1a91e2472b2e5a2eb6957c8b2ad0f321513a24a) [![Go Reference](https://pkg.go.dev/badge/github.com/joshcass/gosqs/.svg)](https://pkg.go.dev/github.com/joshcass/gosqs/)
 
 ## What if sending events to SQS or SNS was as easy as this
 ![So easy to send messages!](https://user-images.githubusercontent.com/5798752/106343851-b225b780-6264-11eb-82be-4038969e50c3.png)
@@ -9,7 +9,7 @@
 
 ## Yes it is possible! [Check out my blog post that led me to develop this library](https://questhenkart.medium.com/sqs-consumer-design-achieving-high-scalability-while-managing-concurrency-in-go-d5a8504ea754)
 
-### Do you have a simple messaging system and need to scale to hundreds, thousands, millions? I am available for contracts to scale your async messaging system and provide a customized solution for you and your team/company/project! Email me at qhenkart@gmail.com. Let's make magic together!
+### Do you have a simple messaging system and need to scale to hundreds, thousands, millions? I am available for contracts to scale your async messaging system and provide a customized solution for you and your team/company/project! Email me at joshcass@gmail.com. Let's make magic together!
 
 _Better yet, do it yourself for free with this open source project._
 

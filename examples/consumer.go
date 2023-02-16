@@ -3,7 +3,7 @@ package example
 import (
 	"context"
 
-	"github.com/qhenkart/gosqs"
+	"github.com/joshcass/gosqs"
 )
 
 func initWorker(c gosqs.Config) {

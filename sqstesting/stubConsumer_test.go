@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/qhenkart/gosqs"
+	"github.com/joshcass/gosqs"
 )
 
 type sample struct {
